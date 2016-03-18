@@ -23,7 +23,7 @@ layout: default
             &nbsp;&nbsp;·&nbsp;&nbsp;
         {% endif %}
       {% endfor %}
-      <a href="/about/">About</a>
+      <a href="/sobre/">Sobre</a>
     </div>
 </header>
 
@@ -31,7 +31,7 @@ layout: default
 <main class="content" role="main">
 
     {% if site.tags.featured %}
-    <h5 class="index-headline featured"><span>Featured</span></h5>
+    <h5 class="index-headline featured"><span>Destaque</span></h5>
 
     <div class="container featured">
       {% for post in site.tags.featured %}
@@ -52,7 +52,7 @@ layout: default
       {% endfor %}
     </div>
 
-    <h5 class="index-headline normal"><span>Regular</span></h5>
+    <h5 class="index-headline normal"><span>Posts</span></h5>
     {% endif %}
 
     <div class="cf frame">
@@ -66,7 +66,7 @@ layout: default
               <p>{{ post.excerpt | strip_html | truncatewords: 50 }}</p>
             </section>
             <div class="post-meta">
-              <time datetime="{{ post.date | date_to_long_string }}">{{ post.date | date_to_long_string }}</time>
+              <time datetime="{{ post.date }}">{{ post.date }}</time>
 <!--            <span class="post-tags-set">on {{#foreach tags}}<span class="post-tag-{{slug}}">{{#if @first}}{{else}}, {{/if}}<a href="/tag/{{slug}}">{{name}}</a></span>{{/foreach}}</span>-->
             </div>
           </div>
@@ -76,14 +76,14 @@ layout: default
 
     <nav class="pagination" role="navigation">
       {% if paginator.next_page %}
-        <a class="newer-posts" href="/page{{paginator.next_page}}">&larr; Older posts</a>
+        <a class="newer-posts" href="/page{{paginator.next_page}}">&larr; Antigos</a>
       {% endif %}
-      <span class="page-number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+      <span class="page-number">Página {{ paginator.page }} de {{ paginator.total_pages }}</span>
       {% if paginator.previous_page %}
         {% if paginator.page == 2 %}
-          <a class="older-posts" href="/">Newer posts &rarr;</a>
+          <a class="older-posts" href="/">Novos &rarr;</a>
         {% else %}
-          <a class="older-posts" href="/page{{paginator.previous_page}}">Newer posts &rarr;</a>
+          <a class="older-posts" href="/page{{paginator.previous_page}}">Novos &rarr;</a>
         {% endif %}
       {% endif %}
     </nav>
