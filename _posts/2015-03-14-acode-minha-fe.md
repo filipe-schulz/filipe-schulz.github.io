@@ -4,7 +4,6 @@ title:  "O bom, o mau e o feio"
 date:   2015-03-14 09:00:00
 image: /assets/article_images/2015-03-14-acode-minha-fe.jpg
 ---
-# O bom, o mau e o feio
 
 Nascido em 17 de Julho de 1674, em Southampton, na Inglaterra, Isaac Watts foi um dos maiores compositores de hinos da história do Cristianismo e um homem muito feio. Do alto de seu 1,5 metro de altura e de sua cabeça desproporcionalmente grande saíram alguns dos hinos mais amados e cantados dos últimos Séculos, como *When I survey the wondrous cross* ("Ao contemplar a tua cruz"), *Joy to the world* ("Cantai que o salvador chegou") e *O God, our help in ages past* ("Ó Deus, eterno ajudador").
 
