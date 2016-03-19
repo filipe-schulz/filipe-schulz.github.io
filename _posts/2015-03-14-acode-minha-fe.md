@@ -6,37 +6,37 @@ image: /assets/article_images/2015-03-14-acode-minha-fe.jpg
 excerpt: "A feiúra de nosso estado natural e a beleza da obra de Cristo em nosso favor em \"Acode minha fé\", de Isaac Watts."
 youtube: "d_KKZxwYTZ4"
 letra: |
-  > Quão triste meu estado é<br>
-  > Nascido em transgressão<br>
-  > Meu pobre ser cativo está<br>
-  > Em vã rebelião<br>
-  > Mas há uma voz de eterno amor<br>
-  > Em tua palavra, ó Deus<br>
-  > "Sem demorar, vem pecador,<br>
-  > Confia no Senhor"<br>
-  > <br>
-  > Minh'alma atende teu chamar<br>
-  > E alívio encontra ali<br>
-  > Acode minha fraca fé<br>
-  > Me faz confiar em ti<br>
-  > Se entregou em meu lugar<br>
-  > Em ti vou me esconder<br>
-  > Aos pés da cruz vou me lavar<br>
-  > No sangue a correr<br>
-  > <br>
-  > Ó forte rei, com tua mão<br>
-  > Vem pois me resgatar<br>
-  > Do trono do meu coração<br>
-  > Remove meu pecar<br>
-  > Indigno sou da salvação<br>
-  > Comprada em meu favor<br>
-  > Sê minha justiça e retidão<br>
-  > Jesus, meu redentor<br>
-  > <br>
-  > Pois há uma voz de eterno amor<br>
-  > Em tua palavra, ó Deus<br>
-  > "Sem demorar, vem pecador,<br>
-  > Confia no Senhor"<br>
+  Quão triste meu estado é<br>
+  Nascido em transgressão<br>
+  Meu pobre ser cativo está<br>
+  Em vã rebelião<br>
+  Mas há uma voz de eterno amor<br>
+  Em tua palavra, ó Deus<br>
+  "Sem demorar, vem pecador,<br>
+  Confia no Senhor"<br>
+  <br>
+  Minh'alma atende teu chamar<br>
+  E alívio encontra ali<br>
+  Acode minha fraca fé<br>
+  Me faz confiar em ti<br>
+  Se entregou em meu lugar<br>
+  Em ti vou me esconder<br>
+  Aos pés da cruz vou me lavar<br>
+  No sangue a correr<br>
+  <br>
+  Ó forte rei, com tua mão<br>
+  Vem pois me resgatar<br>
+  Do trono do meu coração<br>
+  Remove meu pecar<br>
+  Indigno sou da salvação<br>
+  Comprada em meu favor<br>
+  Sê minha justiça e retidão<br>
+  Jesus, meu redentor<br>
+  <br>
+  Pois há uma voz de eterno amor<br>
+  Em tua palavra, ó Deus<br>
+  "Sem demorar, vem pecador,<br>
+  Confia no Senhor"<br>
 
 ---
 
