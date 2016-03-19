@@ -6,14 +6,14 @@ image: /assets/article_images/2015-03-14-acode-minha-fe.jpg
 excerpt: "A feiúra de nosso estado natural e a beleza da obra de Cristo em nosso favor em \"Acode minha fé\", de Isaac Watts."
 youtube: "d_KKZxwYTZ4"
 letra: |
-  "Quão triste meu estado é\n
-  Nascido em transgressão\n
-  Meu pobre ser cativo está\n
+  Quão triste meu estado é
+  Nascido em transgressão
+  Meu pobre ser cativo está
   Em vã rebelião
   Mas há uma voz de eterno amor
   Em tua palavra, ó Deus
-  \"Sem demorar, vem pecador,
-  Confia no Senhor\""
+  "Sem demorar, vem pecador,
+  Confia no Senhor"
   
   Minh'alma atende teu chamar
   E alívio encontra ali
