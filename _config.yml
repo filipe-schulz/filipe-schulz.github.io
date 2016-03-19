@@ -6,7 +6,7 @@ gems:
 # Site settings
 title: "Os bons e velhos hinos"
 description: > # this means to ignore newlines until "email:"
-  Música e um pouco de tudo
+  Hinos, músicas e outras coisas nem tão velhas assim
 
 email: fschulz88@gmail.com
 #blog logo
@@ -20,7 +20,7 @@ author_image: "/assets/images/author.jpg"
 
 paginate:	5
 
-url: "http://filipe-schulz.github.io" # the base hostname & protocol for your site
+url: "http://bonsevelhoshinos.tk" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
 # twitter_handle: '@provalvemenet'
