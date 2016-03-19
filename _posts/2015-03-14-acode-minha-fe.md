@@ -40,6 +40,8 @@ letra: |
 
 ---
 
+# O bom, o mau e o feio
+
 Nascido em 17 de Julho de 1674, em Southampton, na Inglaterra, Isaac Watts foi um dos maiores compositores de hinos da história do Cristianismo e um homem muito feio. Do alto de seu 1,5 metro de altura e de sua cabeça desproporcionalmente grande saíram alguns dos hinos mais amados e cantados dos últimos Séculos, como *When I survey the wondrous cross* ("Ao contemplar a tua cruz"), *Joy to the world* ("Cantai que o salvador chegou") e *O God, our help in ages past* ("Ó Deus, eterno ajudador").
 
 O contraste entre a aparência física de Watts e sua obra marcante foi notada por uma pretendente que rejeitou seu pedido de casamento com as seguintes palavras: "Gostaria de poder dizer que admiro a caixa o quanto eu admiro a jóia nela contida". Desprovido de beleza exterior, Watts dedicou sua vida (celibatária até o fim) a apresentar em versos as verdades da Palavra de Deus.
