@@ -67,9 +67,10 @@ layout: default
               <time datetime="{{ post.date | date: "%d-%m-%Y" }}">Publicado em {{ post.date | date: "%d.%m.%Y" }}</time>
 <!--            <span class="post-tags-set">on {{#foreach tags}}<span class="post-tag-{{slug}}">{{#if @first}}{{else}}, {{/if}}<a href="/tag/{{slug}}">{{name}}</a></span>{{/foreach}}</span>-->
             </div>
-            
+
             <section class="post-excerpt" itemprop="description">
-              <p>{{ post.excerpt }}</p>
+              <img class="post-excerpt-image" src="{{ post.image }}-300x300.jpg">
+              <p class="post-excerpt-body">{{ post.excerpt }}</p>
             </section>
 
           </div>
