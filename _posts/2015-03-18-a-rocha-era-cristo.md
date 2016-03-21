@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A rocha era Cristo"
-date:   2015-03-10 09:00:00
+date:   2015-03-18 09:00:00
 image: /assets/article_images/2015-03-18-a-rocha-era-cristo.jpg
 excerpt: "Como a pedra fendida por Moisés no deserto nos aponta para a obra de justificação de Jesus em nosso favor."
 youtube: "RexG0czdp3k"
