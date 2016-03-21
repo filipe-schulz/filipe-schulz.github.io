@@ -4,7 +4,7 @@
 
 # Output sizes -
 # Please note the format: each size is wrapped with quotes, width and height are separated with space.
-output=("300 300" "700 700")
+output=("200 200" "700 700")
 
 # If you frequently use the same source file (f.e. "~/Desktop/src.jpg"),
 # set it in "default_src"
