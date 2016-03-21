@@ -2,7 +2,7 @@
 layout: post
 title:  "O bom, o mau e o feio"
 date:   2015-03-14 09:00:00
-image: /assets/article_images/2015-03-14-acode-minha-fe
+image: /assets/article_images/2015-03-14-acode-minha-fe.jpg
 excerpt: "A feiúra de nosso estado natural e a beleza da obra de Cristo em nosso favor em \"Acode minha fé\", de Isaac Watts."
 youtube: "d_KKZxwYTZ4"
 letra: |
