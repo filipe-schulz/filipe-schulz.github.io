@@ -3,7 +3,7 @@ layout: post
 title:  "O advogado"
 date:   2015-03-21 09:00:00
 image: /assets/article_images/2015-03-21-o-advogado.jpg
-excerpt: "Temos acesso ao Pai porque Jesus, nosso sumo sacerdote, é quem intercede por nós."
+excerpt: "Temos acesso ao Pai porque Jesus, nosso sumo sacerdote, é quem intercede por nós \"Perante o trono do alto céu\"."
 youtube: "LULK2nZ6sCc"
 letra: |
   Perante o trono do alto céu<br>

@@ -3,7 +3,7 @@ layout: post
 title:  "Louvor é protesto"
 date:   2015-03-22 09:00:00
 image: /assets/article_images/2015-03-22-louvor-e-protesto.jpg
-excerpt: "Quando a igreja se reúne para cantar e adorar a Deus, ela protesta contra qualquer todas as outras pretensas autoridades desse mundo."
+excerpt: "O Salmo 96 nos lembra que quando a igreja se reúne para cantar e adorar a Deus, ela protesta contra qualquer todas as outras pretensas autoridades desse mundo."
 youtube: "V8_1MiMY3bM"
 letra: |
   Cantai ao Senhor um cântico novo<br>
