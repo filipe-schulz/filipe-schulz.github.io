@@ -2,6 +2,7 @@
 layout: post
 title:  "O fardo é leve"
 date:   2015-03-25 09:00:00
+author: schulz
 image: /assets/article_images/2015-03-24-o-fardo-e-leve.jpg
 excerpt: "\"Vinde, aflitos pecadores\" é o chamado de Jesus a todos que andam sobrecarregados pelo peso do pecado."
 youtube: "K9sysaYkwIs"

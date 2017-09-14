@@ -18,6 +18,16 @@ name: 'Filipe Schulz'
 author: 'Filipe Schulz'
 author_image: "/assets/images/author.jpg"
 
+authors:
+  schulz:
+    name: Filipe Schulz
+    email: fschulz88@gmail.com
+    twitter: company
+  emilio:
+    name: Emilio Garofalo Neto
+    email: emiliogneto@yahoo.com
+    twitter: company
+
 paginate:	10
 
 url: "https://filipe-schulz.github.io" # the base hostname & protocol for your site

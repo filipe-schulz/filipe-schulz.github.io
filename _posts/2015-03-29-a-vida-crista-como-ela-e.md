@@ -2,6 +2,7 @@
 layout: post
 title:  "A vida (cristã) como ela é..."
 date:   2015-03-29 09:00:00
+author: emilio
 image: /assets/article_images/2015-03-29-a-vida-crista-como-ela-e.jpg
 excerpt: "Uma vez que fomos salvos e resgatados por Cristo, como viveremos? \"Sê minha vida\" nos fala sobre a vida após a redenção."
 youtube: "rxP45fCBdtw"

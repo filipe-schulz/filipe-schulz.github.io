@@ -2,6 +2,7 @@
 layout: post
 title:  "O teatro da Páscoa"
 date:   2015-03-30 09:00:00
+author: schulz
 image: /assets/article_images/2015-03-30-o-teatro-da-pascoa.jpg
 excerpt: "\"Eis o Cordeiro\" e a encenação que o próprio Cristo nos ordenou."
 youtube: "481xyHUrwQA"

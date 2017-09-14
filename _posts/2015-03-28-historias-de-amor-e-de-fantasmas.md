@@ -2,6 +2,7 @@
 layout: post
 title:  "Histórias de amor e de fantasmas"
 date:   2015-03-28 09:00:00
+author: schulz
 image: /assets/article_images/2015-03-28-historias-de-amor-e-de-fantasmas.jpg
 excerpt: "\"Quão grande o amor do Pai por nós\" nos mostra como a morte de um justo é a garantia de vida para ladrões como eu e você."
 youtube: "z65YxhqY0_E"

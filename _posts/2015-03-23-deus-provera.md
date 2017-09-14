@@ -2,6 +2,7 @@
 layout: post
 title:  "Deus proverá"
 date:   2015-03-23 09:00:00
+author: schulz
 image: /assets/article_images/2015-03-23-deus-provera.jpg
 excerpt: "É Deus quem envia o bendito cordeiro para expiar nossos pecados e nos fazer \"alvos mais que a neve\"."
 youtube: "Fa1afzmDL1Q"

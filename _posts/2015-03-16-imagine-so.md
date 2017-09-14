@@ -2,6 +2,7 @@
 layout: post
 title:  "Imagine só"
 date:   2015-03-16 09:00:00
+author: schulz
 image: /assets/article_images/2015-03-16-imagine-so.jpg
 excerpt: "O uso da imaginação como ferramenta didática em \"Misteriosa tragédia\"."
 youtube: "Q6iCRyvcZrc"

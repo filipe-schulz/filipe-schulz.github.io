@@ -2,6 +2,7 @@
 layout: post
 title:  "Alegrem-se as nações"
 date:   2015-03-17 09:00:00
+author: schulz
 image: /assets/article_images/2015-03-17-alegrem-se-as-nacoes.jpg
 excerpt: "Como o Salmo 67 nos anima a proclamar as novas do evangelho a todos os povos."
 youtube: "SJ-44VihGq8"
